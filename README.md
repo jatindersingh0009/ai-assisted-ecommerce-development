@@ -72,9 +72,6 @@ cd frontend && npm run build
 
 ## Documentation
 
-- [GitHub publishing guide](github.md)
-- [Project context prompt](prompt.md)
-- [Move to a new computer](docs/MOVE_TO_NEW_SYSTEM.md)
 - [API documentation](docs/API_DOCUMENTATION.md)
 - [Database guide](docs/DATABASE.md)
 - [Deployment guide](docs/DEPLOYMENT.md)
